@@ -1,0 +1,20 @@
+# OSX
+.DS_Store
+
+# Python ignores
+*.pyc
+
+# Ignore virtualenv files
+venv
+
+# Ignore all env files
+.env
+
+# SqlLite
+*.db
+
+# Project uploads
+/src/uploads
+
+# Static folder
+/src/dist
