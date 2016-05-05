@@ -1,0 +1,27 @@
+# OSX
+.DS_Store
+
+# Python ignores
+__pycache__
+*.pyc
+
+# Ignore virtualenv files
+venv
+
+# Ignore all env files
+.env
+
+# SqlLite
+*.db
+
+# Project uploads
+/src/uploads
+
+# Static folder
+/src/blog
+
+# AWS
+.boto
+
+# Temporary folders
+/tmp
