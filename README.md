@@ -25,7 +25,7 @@ My personal blog built in AtomicPress.
 1. Start server
 
     `python manage.py runserver`
-    
+
 1. Open your `http://127.0.0.1:5000/` in your browser
 1. Done!
 
@@ -46,6 +46,8 @@ My personal blog built in AtomicPress.
 - Upload to S3
 
     `python manage.py s3 sync`
+
+This project also ships with a makefile that contains a couple of helper commands.
 
 
 ## Contributing
