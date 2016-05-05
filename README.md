@@ -25,10 +25,11 @@ My personal blog built in AtomicPress.
 1. Start server
 
     `python manage.py runserver`
-
+    
+1. Open your `http://127.0.0.1:5000/` in your browser
 1. Done!
 
-## Commands
+## Usage
 
 - Run application
 
@@ -47,6 +48,6 @@ My personal blog built in AtomicPress.
     `python manage.py s3 sync`
 
 
-# License
+## Contributing
 
-Marteinn.se is released under the MIT License.
+Want to contribute? Awesome. Just send a pull request.
