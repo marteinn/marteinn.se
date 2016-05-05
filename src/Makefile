@@ -12,8 +12,9 @@ run_dev:
 run:
 	python manage.py runserver
 
+export:
+	python manage.py exporter export
+
 sync:
 	python manage.py s3 sync
 
-export:
-	python manage.py exporter export
